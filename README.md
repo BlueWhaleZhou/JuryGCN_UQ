@@ -6,8 +6,8 @@ This is the implementation for KDD'22 paper: ["JuryGCN: Quantifying Jackknife Un
 -Python: 3.8  
 -Pytorch: 1.4.0  
 -numpy: 1.19.2  
--scikit-learn: 1.1.3 
--scipy: 1.10.1
+-scikit-learn: 1.1.3  
+-scipy: 1.10.1  
 -autograd: 1.5
 
 # Evaluation
