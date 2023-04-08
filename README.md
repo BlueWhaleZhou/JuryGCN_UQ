@@ -14,7 +14,7 @@ This is the implementation for KDD'22 paper: ["JuryGCN: Quantifying Jackknife Un
 UQ with the application to active node classification: python uq4al.py
 
 # Others
-Please kindly cite our paper if you use this code in your own work:
+Please kindly cite our paper if you found it helpful to your research:
 
 ```
 @inproceedings{kang2022jurygcn,
